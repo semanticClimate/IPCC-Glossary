@@ -1,2 +1,2 @@
-# IPCC-Glosssary
+# IPCC-Glossary
 IPCC Glossary in Wikibase
