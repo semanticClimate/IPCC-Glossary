@@ -8,7 +8,7 @@ Work log: https://github.com/semanticClimate/IPCC-Glossary/blob/main/log.md
  - Creating the Wikibase / Semantic Mediawiki instance of the IPCC Glossary - Prototype #2
    - The following is needed:
      - HTML of a sample report
-       - URL address of the latest HTML output of AR6 Chapter outputs so that these can be imported into the 'setup' (Wikibase / Semantic Mediawiki) See: test/resources/ipcc/cleaned_content/syr/longer-report/html_with_ids.html
+       - URL address of the latest HTML output of AR6 Chapter outputs so that these can be imported into the 'setup' (Wikibase / Semantic Mediawiki) See: [test/resources/ipcc/cleaned_content/syr/longer-report/html_with_ids.html](https://github.com/petermr/pyamihtml/blob/e33fbb492d0fb4178567538409193f278922af75/test/resources/ipcc/cleaned_content/syr/longer-report/html_with_ids.html)
        - Kolja Bailly to give instructions about additional markup if needed on this HTML
      - Kolja made aware of existing WB https://kg-ipclimatec-reports.wikibase.cloud/wiki/Main_Page and queries https://semanticclimate.github.io/IPCC-Queries/
      - Need URL of the latest IPCC Glossary source that #semanticClimate holds: This needed checking for accurancy as numerals were missing.
