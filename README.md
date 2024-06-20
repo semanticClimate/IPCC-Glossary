@@ -1,5 +1,5 @@
 # IPCC-Glossary
-IPCC Glossary in Wikibase / Seamntic Wiki
+IPCC Glossary in Wikibase / Semantic Wiki
 
 Work log: https://github.com/semanticClimate/IPCC-Glossary/blob/main/log.md
 
